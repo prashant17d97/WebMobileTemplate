@@ -7,7 +7,7 @@ plugins {
     alias(libs.plugins.kobwebx.markdown)
 }
 
-group = "com.prashant.blog"
+group = "com.prashant.webmobiletemplate"
 version = "1.0-SNAPSHOT"
 
 kobweb {
@@ -19,7 +19,7 @@ kobweb {
 }
 
 kotlin {
-    configAsKobwebApplication("blog", includeServer = true)
+    configAsKobwebApplication("webmobiletemplate", includeServer = true)
 
     sourceSets {
         val commonMain by getting {

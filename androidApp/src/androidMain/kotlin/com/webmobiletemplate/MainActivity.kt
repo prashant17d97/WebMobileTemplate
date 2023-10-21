@@ -1,4 +1,4 @@
-package com.blog
+package com.webmobiletemplate
 
 import MainView
 import android.os.Bundle

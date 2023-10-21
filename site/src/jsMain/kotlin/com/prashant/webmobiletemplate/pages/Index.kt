@@ -1,4 +1,4 @@
-package com.prashant.blog.pages
+package com.prashant.webmobiletemplate.pages
 
 import androidx.compose.runtime.Composable
 import com.varabyte.kobweb.compose.css.FontSize

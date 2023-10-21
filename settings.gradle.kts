@@ -1,4 +1,4 @@
-rootProject.name = "Blog"
+rootProject.name = "WebMobileTemplate"
 
 include(":androidApp")
 include(":shared")

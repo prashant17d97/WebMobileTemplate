@@ -56,7 +56,7 @@ class ResourcePath {
         const val continueWith = "Or continue with"
         const val password = "Password"
         const val confirmPassword = "Confirm Password"
-        const val appName = "Blog"
+        const val appName = "webmobiletemplate"
         const val appSlogan = "Deliver Favorite Food"
         const val welcomeHeadingFirst = "Find your Comfort Food here"
         const val welcomeLabelFirst =
