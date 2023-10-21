@@ -1,14 +1,14 @@
 site:
-  title: "webmobiletemplate"
+  title: "Web Mobile Template"
 
 server:
   files:
     dev:
       contentRoot: "build/processedResources/js/main/public"
-      script: "build/dist/js/developmentExecutable/blog.js"
-      api: "build/libs/blog.jar"
+      script: "build/dist/js/developmentExecutable/webmobiletemplate.js"
+      api: "build/libs/webmobiletemplate.jar"
     prod:
-      script: "build/dist/js/productionExecutable/blog.js"
+      script: "build/dist/js/productionExecutable/webmobiletemplate.js"
       siteRoot: ".kobweb/site"
 
   port: 8080
